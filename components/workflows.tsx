@@ -1,7 +1,7 @@
 import Image from "next/image";
-import WorflowImg01 from "./public/images/workflow-01.png";
-import WorflowImg02 from "./public/images/workflow-02.png";
-import WorflowImg03 from "./public/images/workflow-03.png";
+import WorflowImg01 from "../public/images/workflow-01.png";
+import WorflowImg02 from "../public/images/workflow-02.png";
+import WorflowImg03 from "../public/images/workflow-03.png";
 import Spotlight from "../components/spotlight";
 import Link from "next/link";
 
@@ -166,9 +166,10 @@ export default function Workflows() {
                     </span>
                   </div>
                   <p className="text-indigo-200/65">
-                    Explore the importance of strategic ad placements and donation asks within
-                    your article page and how they contribute to revenue without
-                    disrupting the reader experience.
+                    Explore the importance of strategic ad placements and
+                    donation asks within your article page and how they
+                    contribute to revenue without disrupting the reader
+                    experience.
                   </p>
                 </div>
               </div>
