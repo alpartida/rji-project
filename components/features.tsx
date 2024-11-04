@@ -1,7 +1,7 @@
 import Image from "next/image";
-import BlurredShapeGray from "@/public/images/blurred-shape-gray.svg";
-import BlurredShape from "@/public/images/blurred-shape.svg";
-import FeaturesImage from "@/public/images/article_tools_for_articlepage.jpg";
+import BlurredShapeGray from "/public/images/blurred-shape-gray.svg";
+import BlurredShape from "/public/images/blurred-shape.svg";
+import FeaturesImage from "/public/images/article_tools_for_articlepage.jpg";
 
 export default function Features() {
   return (

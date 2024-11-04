@@ -1,7 +1,5 @@
-import VideoThumb from "@/public/images/hero-image-01.jpg";
-import ModalVideo from "@/components/modal-video";
 import Image from "next/image";
-import HeroImage from "@/public/images/article-homepage.png";
+import HeroImage from "/public/images/article-homepage.png";
 
 export default function HeroHome() {
   return (

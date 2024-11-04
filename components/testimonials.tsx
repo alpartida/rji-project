@@ -1,12 +1,12 @@
 "use client";
 
 import { useState } from "react";
-import useMasonry from "@/utils/useMasonry";
+import useMasonry from "../utils/useMasonry";
 import Image, { StaticImageData } from "next/image";
-import AuthorImg01 from "@/public/images/alex-partida.jpg";
-import ArticleImg01 from "@/public/images/ads-revenue.png";
-import ArticleImg02 from "@/public/images/article-page-wireframe.png";
-import ArticleImg03 from "@/public/images/homepage-traffic.png";
+import AuthorImg01 from "/public/images/alex-partida.jpg";
+import ArticleImg01 from "/public/images/ads-revenue.png";
+import ArticleImg02 from "/public/images/article-page-wireframe.png";
+import ArticleImg03 from "/public/images/homepage-traffic.png";
 
 const testimonials = [
   {
