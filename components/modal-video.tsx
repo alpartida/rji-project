@@ -4,7 +4,7 @@ import { useState, useRef } from "react";
 import type { StaticImageData } from "next/image";
 import { Dialog, DialogBackdrop, DialogPanel } from "@headlessui/react/dist/index";
 import Image from "next/image";
-import SecondaryIllustration from "@/public/images/secondary-illustration.svg";
+import SecondaryIllustration from "../public/images/secondary-illustration.svg";
 
 interface ModalVideoProps {
   thumb: StaticImageData;
