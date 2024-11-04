@@ -1,6 +1,7 @@
 import Image from "next/image";
 import HeroImage from "../public/images/article-homepage.png";
 
+
 export default function HeroHome() {
   return (
     <section>
@@ -44,6 +45,7 @@ export default function HeroHome() {
             width={760}
             height={668}
             alt="Hero Image"
+            style={{margin: "0 auto"}}
           />
         </div>
       </div>
