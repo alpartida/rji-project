@@ -139,11 +139,12 @@ export default function Features() {
                 <path d="m16.321 2-.5-.866 1.733-1 .5.866A22 22 0 0 1 21 12c0 3.852-1.017 7.636-2.948 10.97l-.502.865-1.73-1.003.501-.865A19.878 19.878 0 0 0 19 12a20 20 0 0 0-2.679-10Z" />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Performance and Load Speed
+                Newsletters
               </h3>
               <p className="text-indigo-200/65">
-                Boost page performance and load times to ensure smooth browsing,
-                even on slower connections.
+                Engaging readers through curated newsletters that deliver
+                relevant stories and updates directly to their inbox,
+                fostering loyalty and driving consistent engagement
               </p>
             </article>
             <article>
@@ -160,11 +161,11 @@ export default function Features() {
                 <path d="m7.454 2.891.891-.454L7.437.655l-.891.454a12 12 0 0 0 0 21.382l.89.454.91-1.781-.892-.455a10 10 0 0 1 0-17.818ZM17.456 1.11l-.891-.454-.909 1.782.891.454a10 10 0 0 1 0 17.819l-.89.454.908 1.781.89-.454a12 12 0 0 0 0-21.382Z" />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Newsletters
+                Performance and Load Speed
               </h3>
               <p className="text-indigo-200/65">
-                Set up effective analytics to monitor page performance, measure
-                reader engagement, and refine your approach based on data
+                Boost page performance and load times to ensure smooth browsing,
+                even on slower connections.
               </p>
             </article>
             <article>
@@ -181,7 +182,7 @@ export default function Features() {
                 <path d="M19.406 3.844 6.083 20.497.586 15 2 13.586l3.917 3.917L17.844 2.595l1.562 1.25Z" />
               </svg>
               <h3 className="mb-1 font-nacelle text-[1rem] font-semibold text-gray-200">
-                Analytics 
+                Analytics
               </h3>
               <p className="text-indigo-200/65">
                 Optimize article pages for search engines to increase
