@@ -73,3 +73,4 @@ jobs:
           server: article-homepage-toolkit.sltrib.com
           username: article-homepage-toolkit@sltrib.com
           password: ${{ secrets.password }}
+          local-dir: out/
