@@ -70,7 +70,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ftp.article-homepage-toolkit.sltrib.com
+          server: article-homepage-toolkit.sltrib.com
           username: article-homepage-toolkit@sltrib.com
           password: ${{ secrets.password }}
           dry-run: true
